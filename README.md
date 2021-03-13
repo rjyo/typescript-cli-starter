@@ -11,10 +11,13 @@ A deadly simple starter for writing cli app with typescript.
 ```bash
 # add packages
 $ yarn
+
 # build cli
 $ yarn build
+
 # run test
 $ yarn test
+
 # debug as typescript
 $ ts-node src/cli.ts
 
